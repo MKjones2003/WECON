@@ -1,0 +1,9 @@
+Azbil cpl Requests and replies :
+
+02 30 32 30 30 58 52 53 2C 32 32 57 2C 31 03 46 38 0D 0A to read data from address 02 00 22
+
+02 30 32 30 30 58 30 30 2C 31 03 32 34 0D 0A to send the reply data for read command
+
+02 30 31 30 30 58 52 53 2C 30 57 2C 31 03 32 44 0D 0A to read data from address 01 00 00
+
+02 30 31 30 30 58 30 30 2C 31 03 32 35 0D 0A to send reply for the read command
